@@ -5,10 +5,9 @@ public class Main {
         int b = 10;
         int sum = a + b;
 
-        System.out.println("Сумма двух чисел равна " + sum);
+        System.out.println("Сумма двух чисел a и b равна " + sum);
 
-        String message = "Это новое изменение!";
-        System.out.println(message);
+
 
 
     }
