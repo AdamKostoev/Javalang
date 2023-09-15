@@ -7,8 +7,5 @@ public class Main {
 
         System.out.println("Сумма двух чисел a и b равна " + sum);
 
-
-
-
     }
 }
